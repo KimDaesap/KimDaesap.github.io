@@ -7,10 +7,11 @@ baseurl: ""
 title_description: "GitHub blog 연습중"
 title_image: "http://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
 #google_analytics: "UA-20365477-4"
-disqus_account: cartenoire
+disqus_account: kimdaesap
 #github_repository: https://github.com/jacobtomlinson/carte-noire
 addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
+highlighter: pygments
 
 # Social usernames/URLs
 twitter_username: kimdaesap
